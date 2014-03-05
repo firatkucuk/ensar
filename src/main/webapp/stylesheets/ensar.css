@@ -1,0 +1,57 @@
+body {
+  padding-top     : 70px;
+}
+
+#damla-webhome-title {
+  color           : #254649;
+  font-size       : 7em;
+}
+
+#damla-webhome-container {
+  padding-top     : 150px;
+}
+
+div#stats {
+  color               : #CCCCCC;
+  font-size           : 10pt;
+  padding-top         : 20px;
+  width               : 800px;
+}
+
+div#results {
+  padding-top         : 10px;
+  width               : 800px;
+}
+
+div#imageresults {
+  padding-top         : 10px;
+}
+
+div.result_item {
+  padding-top         : 20px;
+}
+
+div.result_url {
+  color               : #3a1bbd;
+  font-size           : 9pt;
+}
+
+div.result_snippet {
+  font-size           : 9pt;
+}
+
+div.result_labels {
+  padding-top         : 10px;  
+}
+
+div#paginations {
+  height              : 30px;
+  margin-bottom       : 100px;
+  margin-top          : 50px;
+  text-align          : center;
+  width               : 800px;
+}
+
+a.js_link {
+  cursor              : pointer;
+}
